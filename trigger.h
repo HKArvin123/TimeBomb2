@@ -1,0 +1,1 @@
+void trigger_spinlock_panic(int procCount, void (^progressBlock)(uint64_t idx, uint64_t cnt));

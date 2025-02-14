@@ -1,0 +1,3 @@
+[submodule "litehook"]
+	path = litehook
+	url = https://github.com/opa334/litehook
